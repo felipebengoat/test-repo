@@ -6,3 +6,5 @@
 
 | Name | Quantity | Format | Title | Author | Date | User | Place | Description | Size |
 | ---- | -------- | ------ | ----- | ------ | ---- | ---- | ----- | ----------- | ---- |
+
+The source of this data comes from my own work. The structure of the data and file it was downloaded from MEAP UCLA (Modern Endangered Archives Program)

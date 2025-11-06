@@ -6,19 +6,12 @@
 | Header | Description | DataType | 
 | ------ | ----------- | -------- |
 | Quantity | Refers to the amount of physical objects | Number |
-| -------- | ---------------------------------------- | ------ |
 | Filetype  | Refers to the type of digital file | Text |
-| ------ | -------------------------- | ---- |
 | Title | Name of the photograph | Text |
-| ----- | ---------------------- | ---- |
 | Alternative Title | Secondary name or title | Text |
-| ----------------- | ----------------------- | ---- |
 | Author | Name of the creator | Text |
-| ------ | ------------------- | ---- |
 | Digitized by | Name of the person digitizing | Text |
-| ------------ | ----------------------------- | ---- |
 | Catalogued by | Name of the person cataloging | Text |
-| ------------- | ----------------------------- | ---- |
 | Origin | Place of creation | Text |
 | City | Name of the city or town | Text |
 | Date | Standarized or range date | Number |

@@ -1,6 +1,6 @@
 # MEAP Catalog
  **What is this?**
- This is a inventory of a visual archive, mainly used for describing and cataloguing photographs. In this case, we are seeing the catalog of ***Luis Mitrovic (1911-2008)***, chilean photographer.
+ This is a inventory of a visual archive, mainly used for describing and cataloging photographs. In this case, we are seeing the catalog of ***Luis Mitrovic (1911-2008)***, chilean photographer.
  The source of this data comes from my own work. The structure of the file was downloaded from [MEAP UCLA (Modern Endangered Archives Program)](https://meap.library.ucla.edu/) website.
 
  It is divided in columns that shows:
